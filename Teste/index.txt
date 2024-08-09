@@ -1,0 +1,29 @@
+<html>
+
+  <head>
+    <meta charset="utf-8">
+      <title>
+     <link rel="sytlesheet"
+    href="css/Estilo.css" />
+  Minha pagina
+      </title>
+  </head>	
+ <body>
+    <h1>
+ Pedro Henrique Garcia Aguiar
+    </h1>
+  <p>	
+ Primeiro teste de pagina feita por html simples
+  </p>
+    <img src="imagens/leviatan.png"
+ alt="Imagem não encontrada" 
+ title="Mellhor Time Do Americas" 
+ width="360" height="360" />
+    <video src="videos/Aspas.pm4" controls
+ alt="Video não encontrado"
+ width="360" height="360"
+ title="Melhor Duelista Do Mundo" />   
+ </body>
+
+
+</html>
